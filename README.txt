@@ -6,6 +6,9 @@ Modifikasi Soal Jurnal dengan menambahkan:
 	-Upload Foto
 Validasi : Form tidak boleh kosong
 
+Tambah halaman login.
+
+
 Format pengumpulan : 
 TA5_NIM_NAMA.rar
 
